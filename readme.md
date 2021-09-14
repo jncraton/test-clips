@@ -1,5 +1,5 @@
-w288p Test Clips
-================
+Test Clips
+==========
 
 512x288 test clips.
 
