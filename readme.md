@@ -12,4 +12,4 @@ ffmpeg -i in.y4m -r 25 -vf scale=512:288 -sws_flags spline+accurate_rnd+full_chr
 Acknowledgement
 ---------------
 
-Most content is taken from [here](https://media.xiph.org/video/derf/)
+Most content is taken from the permissively licensed or public domain content [here](https://media.xiph.org/video/derf/).
